@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LetsServiceTask</string>
+    <string name="locationTxt">Update Location</string>
+    <string name="lets">LetsService</string>
+</resources>
